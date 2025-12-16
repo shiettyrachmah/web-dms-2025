@@ -1,0 +1,266 @@
+﻿@media (min-width: 1200px) {
+    .modal-xxl {
+        max-width: 90%; /* ubah sesuai keinginan: 80%, 95%, dll */
+    }
+}
+
+/*.toggle {
+    cursor: pointer;
+    margin-right: 5px;
+}*/
+
+#table-datadoc {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    #table-datadoc th,
+    #table-datadoc td {
+        word-wrap: break-word; /* biar teks panjang nggak bikin kolom melar */
+        white-space: normal;
+    }
+
+/* Default: ikut lebar parent */
+.select2-container {
+    width: auto !important;
+    min-width: 160px;
+    margin-right: 0.5rem;
+}
+
+.select2-container--bootstrap4 .select2-selection {
+    width: 100% !important;
+}
+
+.select2-container .select2-dropdown {
+    z-index: 1060 !important;
+}
+
+#modalUploadFile .select2-container {
+    width: 100% !important;
+}
+
+
+#modalAdvance .select2-container {
+    width: 100% !important;
+}
+
+
+#modalShareDirectories .select2-container {
+    width: 100% !important;
+}
+
+#modalShareDocument .select2-container {
+    width: 100% !important;
+}
+
+#modalTambah .select2-container {
+    width: 100% !important;
+}
+
+
+.select2-container--default .select2-selection--single {
+    height: calc(1.5em + .5rem + 2px) !important;
+    padding: .25rem .5rem !important;
+    font-size: .875rem !important;
+    line-height: 1.5 !important;
+    border: 1px solid #ced4da !important;
+    border-radius: .2rem !important;
+    background-color: #fff !important;
+    box-sizing: border-box;
+}
+
+    /* Hover + fokus */
+    .select2-container--default .select2-selection--single:focus,
+    .select2-container--default .select2-selection--single:hover {
+        border-color: #86b7fe !important;
+        outline: 0;
+        box-shadow: 0 0 0 .2rem rgba(13,110,253,.25);
+    }
+
+    /* Text di dalamnya */
+    .select2-container--default .select2-selection--single .select2-selection__rendered {
+        line-height: 1.5 !important;
+        padding-left: .25rem !important;
+        color: #495057 !important;
+    }
+
+    /* Panah dropdown */
+    .select2-container--default .select2-selection--single .select2-selection__arrow {
+        height: 100% !important;
+        right: .5rem !important;
+    }
+
+#modalUploadFile .select2-container--default .select2-selection--single {
+    border: 2px solid #ced4da !important;
+    border-radius: .25rem !important;
+}
+
+#modalAdvance .select2-container--default .select2-selection--single {
+    border: 2px solid #ced4da !important;
+    border-radius: .25rem !important;
+}
+
+#modalTambah.select2-container--default .select2-selection--single {
+    border: 2px solid #ced4da !important;
+    border-radius: .25rem !important;
+}
+
+#modalShareDirectories .select2-container--default .select2-selection--single {
+    border: 2px solid #ced4da !important;
+    border-radius: .25rem !important;
+}
+
+#modalShareDocument.select2-container--default .select2-selection--single {
+    border: 2px solid #ced4da !important;
+    border-radius: .25rem !important;
+}
+
+.border-dynamic-upload {
+    border: 2px solid #63a9ff;
+    border-radius: .25rem;
+    padding: .5rem;
+    margin-bottom: .5rem;
+    background-color: #fff;
+}
+
+#selectedTags .badge {
+    font-size: 1rem;
+    padding: 0.6em 0.9em;
+}
+
+#selectedUsers .badge {
+    font-size: 1rem;
+    padding: 0.6em 0.9em;
+}
+
+#selectedUsersSharedDir .badge {
+    font-size: 0.9rem;
+    padding: 0.6em 0.9em;
+}
+
+#selectedUsersSharedDoc .badge {
+    font-size: 0.9rem;
+    padding: 0.6em 0.9em;
+}
+
+#selectedEmails .badge {
+    font-size: 1rem;
+    padding: 0.6em 0.9em;
+}
+
+#selectedEmailsDir .badge {
+    font-size: 1rem;
+    padding: 0.6em 0.9em;
+}
+
+
+.select2-container--bootstrap4 .select2-selection {
+    border: 1px solid #ced4da !important;
+    border-radius: 0.25rem !important;
+    height: calc(2.25rem + 2px) !important;
+}
+
+.select2-container--bootstrap4 .select2-selection--single .select2-selection__rendered {
+    line-height: 2rem !important;
+}
+
+.select2-container--bootstrap4 .select2-selection--single {
+    height: calc(2.25rem + 2px) !important;
+}
+
+.select2-container--bootstrap4 .select2-selection--multiple {
+    min-height: calc(2.25rem + 2px) !important;
+    border: 1px solid #ced4da !important;
+}
+
+/* Scroll untuk dropdown */
+.select2-container--bootstrap4 .select2-results > .select2-results__options {
+    max-height: 200px !important;
+    overflow-y: auto !important;
+}
+
+
+.drop-zone {
+    position: relative;
+    border: 2px dashed #5a67d8;
+    border-radius: 8px;
+    padding: 30px;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+    .drop-zone:hover {
+        background-color: #f8f9ff;
+    }
+
+    .drop-zone input[type=file] {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+    }
+
+    .drop-zone.dragover {
+        background-color: #eef2ff;
+        border-color: #4c51bf;
+    }
+
+.is-invalid {
+    border-color: #dc3545 !important;
+    background-color: #fff5f5;
+}
+
+.invalid-feedback {
+    display: none;
+}
+
+.btn-lightblue {
+    background-color: #add8e6 !important; /* biru muda */
+    color: #004085 !important; /* teks biru tua biar kontras */
+    border: 1px solid #99ccee; /* border sedikit lebih gelap */
+}
+
+    .btn-lightblue:hover {
+        background-color: #9cd0f0 !important; /* biru muda lebih gelap saat hover */
+        color: #002752 !important;
+    }
+
+.modal-backdrop.stacked {
+    opacity: 0.5 !important; /* latar belakang lebih transparan */
+}
+
+iframe {
+    background-color: white !important;
+    color: black !important;
+}
+
+.select2-container--default.select2-container--disabled .select2-selection--single {
+    background-color: #e9ecef !important;
+    color: #6c757d !important;
+    cursor: not-allowed !important;
+}
+
+#dynamic-fields-version-edit table thead th {
+    position: sticky;
+    top: 0;
+    background-color: #f8f9fa;
+    z-index: 2;
+}
+
+body .tooltip .tooltip-inner {
+    background-color: #000 !important;
+    color: #fff !important;
+    font-weight: 500;
+    font-size: 0.875rem;
+    border-radius: 6px;
+    padding: 6px 10px;
+}
+
+body .tooltip.bs-tooltip-top .tooltip-arrow::before,
+body .tooltip.bs-tooltip-bottom .tooltip-arrow::before,
+body .tooltip.bs-tooltip-start .tooltip-arrow::before,
+body .tooltip.bs-tooltip-end .tooltip-arrow::before {
+    border-color: #000 !important;
+}
