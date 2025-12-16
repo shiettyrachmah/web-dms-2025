@@ -2463,6 +2463,88 @@
       ]
     },
     {
+      "Route": "adminltes/plugins/datatables-bs4/css/dataTables.bootstrap4.min.28u3hjuv1c.css",
+      "AssetFile": "adminltes/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28u3hjuv1c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css",
+      "AssetFile": "adminltes/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
+        }
+      ]
+    },
+    {
       "Route": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.7ohmli6xn5.css",
       "AssetFile": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.css",
       "Selectors": [],
@@ -2541,88 +2623,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-91+1bsPR1B8miE0VUsHU7XSuPGtSLSWAApE3P7nw4Ec="
-        }
-      ]
-    },
-    {
-      "Route": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.28u3hjuv1c.css",
-      "AssetFile": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "28u3hjuv1c"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
-        },
-        {
-          "Name": "label",
-          "Value": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css"
-        }
-      ]
-    },
-    {
-      "Route": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
-      "AssetFile": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
         }
       ]
     },
