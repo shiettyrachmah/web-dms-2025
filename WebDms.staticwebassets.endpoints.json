@@ -741,8 +741,8 @@
       ]
     },
     {
-      "Route": "adminltes/datatable/css/datatables.bootstrap4.min.css",
-      "AssetFile": "adminltes/datatable/css/datatables.bootstrap4.min.css",
+      "Route": "adminltes/datatable/css/datatables.bootstrapv4.min.css",
+      "AssetFile": "adminltes/datatable/css/datatables.bootstrapv4.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -755,7 +755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5230"
+          "Value": "6528"
         },
         {
           "Name": "Content-Type",
@@ -763,23 +763,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY=\""
+          "Value": "\"QMPQf3XcNZImiPo9k0b7kCdSejmHlcq8WnUfAFm5RQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+          "Value": "Tue, 16 Dec 2025 07:07:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY="
+          "Value": "sha256-QMPQf3XcNZImiPo9k0b7kCdSejmHlcq8WnUfAFm5RQ4="
         }
       ]
     },
     {
-      "Route": "adminltes/datatable/css/datatables.bootstrap4.min.get22pytxb.css",
-      "AssetFile": "adminltes/datatable/css/datatables.bootstrap4.min.css",
+      "Route": "adminltes/datatable/css/datatables.bootstrapv4.min.di1afzfdbz.js",
+      "AssetFile": "adminltes/datatable/css/datatables.bootstrapv4.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +792,89 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5230"
+          "Value": "2593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"286BnLS7d9H1qcgUh2EcH1AP4prAsoXbBNcartUK4y4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 07:11:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di1afzfdbz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-286BnLS7d9H1qcgUh2EcH1AP4prAsoXbBNcartUK4y4="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/datatable/css/datatables.bootstrapv4.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/datatable/css/datatables.bootstrapv4.min.js",
+      "AssetFile": "adminltes/datatable/css/datatables.bootstrapv4.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"286BnLS7d9H1qcgUh2EcH1AP4prAsoXbBNcartUK4y4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 07:11:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-286BnLS7d9H1qcgUh2EcH1AP4prAsoXbBNcartUK4y4="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/datatable/css/datatables.bootstrapv4.min.slzgziqqie.css",
+      "AssetFile": "adminltes/datatable/css/datatables.bootstrapv4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6528"
         },
         {
           "Name": "Content-Type",
@@ -800,25 +882,25 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY=\""
+          "Value": "\"QMPQf3XcNZImiPo9k0b7kCdSejmHlcq8WnUfAFm5RQ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+          "Value": "Tue, 16 Dec 2025 07:07:59 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "get22pytxb"
+          "Value": "slzgziqqie"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY="
+          "Value": "sha256-QMPQf3XcNZImiPo9k0b7kCdSejmHlcq8WnUfAFm5RQ4="
         },
         {
           "Name": "label",
-          "Value": "adminltes/datatable/css/datatables.bootstrap4.min.css"
+          "Value": "adminltes/datatable/css/datatables.bootstrapv4.min.css"
         }
       ]
     },
@@ -5907,6 +5989,88 @@
       ]
     },
     {
+      "Route": "adminltes/lib/button/buttons.colvis.min.2q9c8rmv4p.js",
+      "AssetFile": "adminltes/lib/button/buttons.colvis.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xs8dseVGr729ETUpcyEi80aM+PMNTqkbJbHpp+o/Cm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 07:13:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2q9c8rmv4p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xs8dseVGr729ETUpcyEi80aM+PMNTqkbJbHpp+o/Cm8="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/lib/button/buttons.colvis.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/lib/button/buttons.colvis.min.js",
+      "AssetFile": "adminltes/lib/button/buttons.colvis.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xs8dseVGr729ETUpcyEi80aM+PMNTqkbJbHpp+o/Cm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 07:13:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xs8dseVGr729ETUpcyEi80aM+PMNTqkbJbHpp+o/Cm8="
+        }
+      ]
+    },
+    {
       "Route": "adminltes/lib/chart.js/Chart.bundle.min.8kror95xv6.js",
       "AssetFile": "adminltes/lib/chart.js/Chart.bundle.min.js",
       "Selectors": [],
@@ -6563,88 +6727,6 @@
       ]
     },
     {
-      "Route": "adminltes/lib/datatables/css/datatables.bootstrap4.min.css",
-      "AssetFile": "adminltes/lib/datatables/css/datatables.bootstrap4.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5230"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY="
-        }
-      ]
-    },
-    {
-      "Route": "adminltes/lib/datatables/css/datatables.bootstrap4.min.get22pytxb.css",
-      "AssetFile": "adminltes/lib/datatables/css/datatables.bootstrap4.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5230"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "get22pytxb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qFhmTXQNXFv2ln2rvykEkPcuY3KrD00VMFciaSCl+VY="
-        },
-        {
-          "Name": "label",
-          "Value": "adminltes/lib/datatables/css/datatables.bootstrap4.min.css"
-        }
-      ]
-    },
-    {
       "Route": "adminltes/lib/datatables/js/datatables-demo.js",
       "AssetFile": "adminltes/lib/datatables/js/datatables-demo.js",
       "Selectors": [],
@@ -6723,88 +6805,6 @@
         {
           "Name": "label",
           "Value": "adminltes/lib/datatables/js/datatables-demo.js"
-        }
-      ]
-    },
-    {
-      "Route": "adminltes/lib/datatables/js/datatables.bootstrap4.min.js",
-      "AssetFile": "adminltes/lib/datatables/js/datatables.bootstrap4.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2106"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dsMm93i5fDKzWJChFeO9WfSkyQuGTRPvfatV2b/8PLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dsMm93i5fDKzWJChFeO9WfSkyQuGTRPvfatV2b/8PLE="
-        }
-      ]
-    },
-    {
-      "Route": "adminltes/lib/datatables/js/datatables.bootstrap4.min.q8lwh68o4z.js",
-      "AssetFile": "adminltes/lib/datatables/js/datatables.bootstrap4.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2106"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dsMm93i5fDKzWJChFeO9WfSkyQuGTRPvfatV2b/8PLE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q8lwh68o4z"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dsMm93i5fDKzWJChFeO9WfSkyQuGTRPvfatV2b/8PLE="
-        },
-        {
-          "Name": "label",
-          "Value": "adminltes/lib/datatables/js/datatables.bootstrap4.min.js"
         }
       ]
     },
