@@ -1151,6 +1151,2630 @@
       ]
     },
     {
+      "Route": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.7ohmli6xn5.css",
+      "AssetFile": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91+1bsPR1B8miE0VUsHU7XSuPGtSLSWAApE3P7nw4Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:40:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ohmli6xn5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-91+1bsPR1B8miE0VUsHU7XSuPGtSLSWAApE3P7nw4Ec="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.css",
+      "AssetFile": "adminltes/plugins/datatables-button/css/buttons.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"91+1bsPR1B8miE0VUsHU7XSuPGtSLSWAApE3P7nw4Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:40:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-91+1bsPR1B8miE0VUsHU7XSuPGtSLSWAApE3P7nw4Ec="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.28u3hjuv1c.css",
+      "AssetFile": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "28u3hjuv1c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
+      "AssetFile": "adminltes/plugins/datatables4/css/dataTables.bootstrap4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 08:25:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjjf/eCakhg2z9W598ePMx1xzi9JlZu28irdDv5/B7E="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/all.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BB7u9Dv4KPjJLI6yZYzVhS0giwx4piY74Fc/3gCTiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BB7u9Dv4KPjJLI6yZYzVhS0giwx4piY74Fc/3gCTiM="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/all.gz3otmzdmh.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/all.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78193"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1BB7u9Dv4KPjJLI6yZYzVhS0giwx4piY74Fc/3gCTiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gz3otmzdmh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1BB7u9Dv4KPjJLI6yZYzVhS0giwx4piY74Fc/3gCTiM="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/all.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/all.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uk1JMi+bYTPlZWfkxA2gLP6oqR8kkgtQ/8YNtjAgFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uk1JMi+bYTPlZWfkxA2gLP6oqR8kkgtQ/8YNtjAgFU="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/all.min.zkx4zk6074.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/all.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "59348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Uk1JMi+bYTPlZWfkxA2gLP6oqR8kkgtQ/8YNtjAgFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkx4zk6074"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Uk1JMi+bYTPlZWfkxA2gLP6oqR8kkgtQ/8YNtjAgFU="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/all.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/brands.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/brands.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a4P4a4awKKGyHONA945dcH8P6tQ0DXAMK8BlA9OyLlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a4P4a4awKKGyHONA945dcH8P6tQ0DXAMK8BlA9OyLlQ="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/brands.lc9dol4lo6.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/brands.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a4P4a4awKKGyHONA945dcH8P6tQ0DXAMK8BlA9OyLlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lc9dol4lo6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a4P4a4awKKGyHONA945dcH8P6tQ0DXAMK8BlA9OyLlQ="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/brands.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/brands.min.2m5ro0ilug.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/brands.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ks0yBAXJ3lY85Ev/K6sD1HkuDGWbtFSXFJPMX1Db3AA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2m5ro0ilug"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ks0yBAXJ3lY85Ev/K6sD1HkuDGWbtFSXFJPMX1Db3AA="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/brands.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/brands.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/brands.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ks0yBAXJ3lY85Ev/K6sD1HkuDGWbtFSXFJPMX1Db3AA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ks0yBAXJ3lY85Ev/K6sD1HkuDGWbtFSXFJPMX1Db3AA="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/fontawesome.6d51olv6j3.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as2+WuRdu1h8jU0TKbuLxIEXOFZUm0UiP3JXRVCuz1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6d51olv6j3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-as2+WuRdu1h8jU0TKbuLxIEXOFZUm0UiP3JXRVCuz1I="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/fontawesome.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/fontawesome.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/fontawesome.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"as2+WuRdu1h8jU0TKbuLxIEXOFZUm0UiP3JXRVCuz1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-as2+WuRdu1h8jU0TKbuLxIEXOFZUm0UiP3JXRVCuz1I="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/fontawesome.min.4rcvuen4jw.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sGedb+HrwEqePjI/MjKqCds9rW1nq187B4ADEJ9e4p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rcvuen4jw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sGedb+HrwEqePjI/MjKqCds9rW1nq187B4ADEJ9e4p8="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/fontawesome.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/fontawesome.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/fontawesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sGedb+HrwEqePjI/MjKqCds9rW1nq187B4ADEJ9e4p8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sGedb+HrwEqePjI/MjKqCds9rW1nq187B4ADEJ9e4p8="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/regular.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/regular.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hk86w29RJLiREswWn4atcpn3R/9GFezWaf1e/KQWpXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hk86w29RJLiREswWn4atcpn3R/9GFezWaf1e/KQWpXQ="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/regular.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/regular.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LpFBFbImXdqgrjDwx+1X7kCvDFf/ak7cMxFDpPskuuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LpFBFbImXdqgrjDwx+1X7kCvDFf/ak7cMxFDpPskuuQ="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/regular.min.upn7fjuiur.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/regular.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LpFBFbImXdqgrjDwx+1X7kCvDFf/ak7cMxFDpPskuuQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upn7fjuiur"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LpFBFbImXdqgrjDwx+1X7kCvDFf/ak7cMxFDpPskuuQ="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/regular.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/regular.mtdyy5m523.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/regular.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hk86w29RJLiREswWn4atcpn3R/9GFezWaf1e/KQWpXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mtdyy5m523"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hk86w29RJLiREswWn4atcpn3R/9GFezWaf1e/KQWpXQ="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/regular.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/solid.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/solid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ePFwI0Qq6xvo9xtUP4WjtlGfXA36Ph4de7PrlK8qFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ePFwI0Qq6xvo9xtUP4WjtlGfXA36Ph4de7PrlK8qFA="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/solid.hfb4dth8na.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/solid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ePFwI0Qq6xvo9xtUP4WjtlGfXA36Ph4de7PrlK8qFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hfb4dth8na"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ePFwI0Qq6xvo9xtUP4WjtlGfXA36Ph4de7PrlK8qFA="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/solid.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/solid.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/solid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qf3kWdRnSMh3mU8ssfG+/rUYxEef0UGV39R17Ej+d/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qf3kWdRnSMh3mU8ssfG+/rUYxEef0UGV39R17Ej+d/k="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/solid.min.tju85rksnn.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/solid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qf3kWdRnSMh3mU8ssfG+/rUYxEef0UGV39R17Ej+d/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tju85rksnn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qf3kWdRnSMh3mU8ssfG+/rUYxEef0UGV39R17Ej+d/k="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/solid.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/svg-with-js.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/svg-with-js.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZO+FQ6kr+7+ncXlb2LVKtKgp1g8adMoX79a0ukvGE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZO+FQ6kr+7+ncXlb2LVKtKgp1g8adMoX79a0ukvGE0="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/svg-with-js.jfb1c0fodm.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/svg-with-js.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8448"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZO+FQ6kr+7+ncXlb2LVKtKgp1g8adMoX79a0ukvGE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jfb1c0fodm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZO+FQ6kr+7+ncXlb2LVKtKgp1g8adMoX79a0ukvGE0="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/svg-with-js.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/svg-with-js.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/svg-with-js.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eEFaaDuFaQ6ftqvEkAlRigjEo/Q840hfkF2rbHBqhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eEFaaDuFaQ6ftqvEkAlRigjEo/Q840hfkF2rbHBqhw="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/svg-with-js.min.pz9hh5frqh.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/svg-with-js.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eEFaaDuFaQ6ftqvEkAlRigjEo/Q840hfkF2rbHBqhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz9hh5frqh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eEFaaDuFaQ6ftqvEkAlRigjEo/Q840hfkF2rbHBqhw="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/svg-with-js.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/v4-shims.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/v4-shims.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YoEv9vpPJOCC6KuA8LUlcI8ax5rx6z0YB//Etj/ckw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YoEv9vpPJOCC6KuA8LUlcI8ax5rx6z0YB//Etj/ckw8="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/v4-shims.min.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/v4-shims.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlpmd93+kLWp/AcZTDJTlXazDvkWN+zCsGvBR+zvfZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlpmd93+kLWp/AcZTDJTlXazDvkWN+zCsGvBR+zvfZ0="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/v4-shims.min.qwiihh62ph.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/v4-shims.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlpmd93+kLWp/AcZTDJTlXazDvkWN+zCsGvBR+zvfZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwiihh62ph"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlpmd93+kLWp/AcZTDJTlXazDvkWN+zCsGvBR+zvfZ0="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/v4-shims.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/css/v4-shims.y7sbnt5r6l.css",
+      "AssetFile": "adminltes/plugins/fontawesome-free/css/v4-shims.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43484"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YoEv9vpPJOCC6KuA8LUlcI8ax5rx6z0YB//Etj/ckw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7sbnt5r6l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YoEv9vpPJOCC6KuA8LUlcI8ax5rx6z0YB//Etj/ckw8="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/css/v4-shims.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.j5wh9ughv7.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5wh9ughv7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.woff"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.otjz39eo9p.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otjz39eo9p"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.eot"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.totad59w05.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "totad59w05"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.dbm23ce279.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbm23ce279"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.eot"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.gaagixs38h.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gaagixs38h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.hp61lh7kro.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp61lh7kro"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.woff"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.3hh74dlnyy.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hh74dlnyy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.eot"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.76ds2gje4f.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76ds2gje4f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.eot",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.jba8vm33uh.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jba8vm33uh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.woff"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.woff",
+      "AssetFile": "adminltes/plugins/fontawesome-free/webfonts/fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "adminltes/plugins/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/jquery-validation-unobtrusive/LICENSE.txt"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "adminltes/plugins/jquery-validation-unobtrusive/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "adminltes/plugins/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlv21k5csn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/jquery/LICENSE.txt"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/jquery/LICENSE.txt",
+      "AssetFile": "adminltes/plugins/jquery/LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/css/select2.css",
+      "AssetFile": "adminltes/plugins/select2/css/select2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LeJJJvvbAxhTZF0Zr+gypIZTUSMdTmaAXZDGwHXo/zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LeJJJvvbAxhTZF0Zr+gypIZTUSMdTmaAXZDGwHXo/zc="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/css/select2.hb1ug0nc9n.css",
+      "AssetFile": "adminltes/plugins/select2/css/select2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LeJJJvvbAxhTZF0Zr+gypIZTUSMdTmaAXZDGwHXo/zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb1ug0nc9n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LeJJJvvbAxhTZF0Zr+gypIZTUSMdTmaAXZDGwHXo/zc="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/select2/css/select2.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/css/select2.min.css",
+      "AssetFile": "adminltes/plugins/select2/css/select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gk1em9+pH2vyj8PR0Ap3SDR4u0lfH4PuXGB0aihmAVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gk1em9+pH2vyj8PR0Ap3SDR4u0lfH4PuXGB0aihmAVg="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/css/select2.min.uk1yea4oa7.css",
+      "AssetFile": "adminltes/plugins/select2/css/select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gk1em9+pH2vyj8PR0Ap3SDR4u0lfH4PuXGB0aihmAVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 09:18:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uk1yea4oa7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gk1em9+pH2vyj8PR0Ap3SDR4u0lfH4PuXGB0aihmAVg="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/select2/css/select2.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/js/i18n/build.nrpastnkn6.txt",
+      "AssetFile": "adminltes/plugins/select2/js/i18n/build.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Db+PQNhI2DLMvZGE6YeMMupk4QNikM2WNR+WOlURrgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrpastnkn6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Db+PQNhI2DLMvZGE6YeMMupk4QNikM2WNR+WOlURrgc="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/select2/js/i18n/build.txt"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/select2/js/i18n/build.txt",
+      "AssetFile": "adminltes/plugins/select2/js/i18n/build.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Db+PQNhI2DLMvZGE6YeMMupk4QNikM2WNR+WOlURrgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Db+PQNhI2DLMvZGE6YeMMupk4QNikM2WNR+WOlURrgc="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/sweetalert2/sweetalert2.css",
+      "AssetFile": "adminltes/plugins/sweetalert2/sweetalert2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LepRJfnlF6mrsylhXkqcp1ZIeBsynbLTKx4GCfz2Wkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LepRJfnlF6mrsylhXkqcp1ZIeBsynbLTKx4GCfz2Wkw="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/sweetalert2/sweetalert2.min.css",
+      "AssetFile": "adminltes/plugins/sweetalert2/sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fxT2vEPirY2ASBNBFCBWwEsLxCZJd3gjen03Q2lKeKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fxT2vEPirY2ASBNBFCBWwEsLxCZJd3gjen03Q2lKeKE="
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/sweetalert2/sweetalert2.min.hc81fj3d4l.css",
+      "AssetFile": "adminltes/plugins/sweetalert2/sweetalert2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fxT2vEPirY2ASBNBFCBWwEsLxCZJd3gjen03Q2lKeKE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hc81fj3d4l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fxT2vEPirY2ASBNBFCBWwEsLxCZJd3gjen03Q2lKeKE="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/sweetalert2/sweetalert2.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "adminltes/plugins/sweetalert2/sweetalert2.n3xtpwhucj.css",
+      "AssetFile": "adminltes/plugins/sweetalert2/sweetalert2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LepRJfnlF6mrsylhXkqcp1ZIeBsynbLTKx4GCfz2Wkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 29 Sep 2025 03:17:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3xtpwhucj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LepRJfnlF6mrsylhXkqcp1ZIeBsynbLTKx4GCfz2Wkw="
+        },
+        {
+          "Name": "label",
+          "Value": "adminltes/plugins/sweetalert2/sweetalert2.css"
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "favicon.ico",
       "Selectors": [],
