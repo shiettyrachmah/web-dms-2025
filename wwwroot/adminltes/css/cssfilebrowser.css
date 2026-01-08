@@ -4,122 +4,45 @@
     }
 }
 
-/*.toggle {
-    cursor: pointer;
-    margin-right: 5px;
-}*/
-
 #table-datadoc {
     table-layout: fixed;
     width: 100%;
 }
 
-    #table-datadoc th,
-    #table-datadoc td {
-        word-wrap: break-word; /* biar teks panjang nggak bikin kolom melar */
-        white-space: normal;
-    }
-
-/* Default: ikut lebar parent */
-/*.select2-container {
-    width: auto !important;
-    min-width: 160px;
-    margin-right: 0.5rem;
+#table-datadoc th,
+#table-datadoc td {
+    word-wrap: break-word; /* biar teks panjang nggak bikin kolom melar */
+    white-space: normal;
 }
 
-.select2-container--bootstrap4 .select2-selection {
-    width: 100% !important;
+#dynamic-fields-version-edit table thead th {
+    position: sticky;
+    top: 0;
+    background-color: #f8f9fa;
+    z-index: 2;
 }
 
-.select2-container .select2-dropdown {
-    z-index: 1060 !important;
+.row-select {
+    transform: scale(1.3);
+    cursor: pointer;
 }
 
-#modalUploadFile .select2-container {
-    width: 100% !important;
+.tree-containers {
+    height: 650px;
+    overflow-y: auto;
+    overflow-x: auto; /* scroll-x aktif */
+    white-space: nowrap;
+    padding: 10px 4px;
 }
 
-
-#modalAdvance .select2-container {
-    width: 100% !important;
+/* Paksa tree bisa melebar */
+.tree-contents {
+    min-width: max-content;
 }
 
-#modalAdvance .modal-content {
-    overflow: visible !important;
+#table-datadoc_wrapper .dataTables_scrollBody {
+    overflow-y: scroll;
 }
-
-
-
-#modalShareDirectories .select2-container {
-    width: 100% !important;
-}
-
-#modalShareDocument .select2-container {
-    width: 100% !important;
-}
-
-#modalTambah .select2-container {
-    width: 100% !important;
-}
-
-
-.select2-container--default .select2-selection--single {
-    height: calc(1.5em + .5rem + 2px) !important;
-    padding: .25rem .5rem !important;
-    font-size: .875rem !important;
-    line-height: 1.5 !important;
-    border: 1px solid #ced4da !important;
-    border-radius: .2rem !important;
-    background-color: #fff !important;
-    box-sizing: border-box;
-}*/
-
-    /* Hover + fokus */
-    /*.select2-container--default .select2-selection--single:focus,
-    .select2-container--default .select2-selection--single:hover {
-        border-color: #86b7fe !important;
-        outline: 0;
-        box-shadow: 0 0 0 .2rem rgba(13,110,253,.25);
-    }*/
-
-    /* Text di dalamnya */
-    /*.select2-container--default .select2-selection--single .select2-selection__rendered {
-        line-height: 1.5 !important;
-        padding-left: .25rem !important;
-        color: #495057 !important;
-    }*/
-
-    /* Panah dropdown */
-    /*.select2-container--default .select2-selection--single .select2-selection__arrow {
-        height: 100% !important;
-        right: .5rem !important;
-    }
-
-#modalUploadFile .select2-container--default .select2-selection--single {
-    border: 2px solid #ced4da !important;
-    border-radius: .25rem !important;
-}
-
-#modalAdvance .select2-container--default .select2-selection--single {
-    border: 2px solid #ced4da !important;
-    border-radius: .25rem !important;
-}
-
-#modalTambah .select2-container--default .select2-selection--single {
-    border: 2px solid #ced4da !important;
-    border-radius: .25rem !important;
-}
-
-#modalShareDirectories .select2-container--default .select2-selection--single {
-    border: 2px solid #ced4da !important;
-    border-radius: .25rem !important;
-}
-
-#modalShareDocument.select2-container--default .select2-selection--single {
-    border: 2px solid #ced4da !important;
-    border-radius: .25rem !important;
-}*/
-
 .border-dynamic-upload {
     border: 2px solid #63a9ff;
     border-radius: .25rem;
@@ -157,35 +80,6 @@
     font-size: 1rem;
     padding: 0.6em 0.9em;
 }
-
-
-/*.select2-container--bootstrap4 .select2-selection {
-    border: 1px solid #ced4da !important;
-    border-radius: 0.25rem !important;
-    height: calc(2.25rem + 2px) !important;
-}
-
-.select2-container--bootstrap4 .select2-selection--single .select2-selection__rendered {
-    line-height: 2rem !important;
-    background-color: #e9ecef !important;
-    color: #6c757d !important;
-}
-
-.select2-container--bootstrap4 .select2-selection--single {
-    height: calc(2.25rem + 2px) !important;
-}
-
-.select2-container--bootstrap4 .select2-selection--multiple {
-    min-height: calc(2.25rem + 2px) !important;
-    border: 1px solid #ced4da !important;
-}*/
-
-/* Scroll untuk dropdown */
-/*.select2-container--bootstrap4 .select2-results > .select2-results__options {
-    max-height: 200px !important;
-    overflow-y: auto !important;
-}*/
-
 
 .drop-zone {
     position: relative;
@@ -242,12 +136,6 @@ iframe {
     background-color: white !important;
     color: black !important;
 }
-/*
-.select2-container--default.select2-container--disabled .select2-selection--single {
-    background-color: #e9ecef !important;
-    color: #6c757d !important;
-    cursor: not-allowed !important;
-}*/
 
 #dynamic-fields-version-edit table thead th {
     position: sticky;
